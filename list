@@ -1,0 +1,36 @@
+drwxrwxr-x  2 sannian sannian   4096 5月  22 22:20 .
+drwxr-xr-x 32 sannian sannian   4096 5月  22 22:20 ..
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:07 wc
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:14 rpm.list
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:20 list
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:50 log.
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:51 log.170522
+-rw-rw-r--  1 sannian sannian     44 5月  22 21:53 test7
+-rw-rw-r--  1 sannian sannian     88 5月  22 21:54 test6
+-rwxrw-r--  1 sannian sannian    113 5月  22 21:50 rename
+-rwxrw-r--  1 sannian sannian     69 5月  22 21:43 test
+总用量 248
+drwxrwxr-x  2 sannian sannian   4096 5月  22 22:20 .
+drwxr-xr-x 32 sannian sannian   4096 5月  22 22:20 ..
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:07 wc
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:14 rpm.list
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:50 log.
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:51 log.170522
+-rw-rw-r--  1 sannian sannian     44 5月  22 21:53 test7
+-rw-rw-r--  1 sannian sannian    648 5月  22 22:20 list
+-rw-rw-r--  1 sannian sannian     88 5月  22 21:54 test6
+-rwxrw-r--  1 sannian sannian    113 5月  22 21:50 rename
+-rwxrw-r--  1 sannian sannian     69 5月  22 21:43 test
+总用量 252
+drwxrwxr-x  2 sannian sannian   4096 5月  22 22:20 .
+drwxr-xr-x 32 sannian sannian   4096 5月  22 22:20 ..
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:07 wc
+-rw-rw-r--  1 sannian sannian      0 5月  22 22:14 rpm.list
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:50 log.
+-rw-rw-r--  1 sannian sannian 113418 5月  22 21:51 log.170522
+-rw-rw-r--  1 sannian sannian   1296 5月  22 22:21 list
+-rw-rw-r--  1 sannian sannian     44 5月  22 21:53 test7
+-rw-rw-r--  1 sannian sannian     88 5月  22 21:54 test6
+-rwxrw-r--  1 sannian sannian    113 5月  22 21:50 rename
+-rwxrw-r--  1 sannian sannian     69 5月  22 21:43 test
+总用量 252
